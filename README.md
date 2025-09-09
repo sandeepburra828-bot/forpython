@@ -1,0 +1,2 @@
+# forpython
+practice purpose
